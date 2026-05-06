@@ -5,8 +5,7 @@ date: "Mar 18 2022"
 draft: false
 tags:
 - Data Visualization
-- HCI
-- Medical Imaging
+
 
 repoUrl: https://github.com/HannahYZhao/UnimelbTomographyScan
 ---

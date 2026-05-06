@@ -6,7 +6,6 @@ draft: false
 tags:
 - Computer Vision
 - Mobile
-- HCI
 ---
 
 - Developed an Android application that uses computer vision to estimate user emotional state from facial input and provide simple behavioral recommendations.

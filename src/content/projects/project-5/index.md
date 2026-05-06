@@ -4,9 +4,7 @@ summary: "Android-based system for controlling smart home devices via BLE and lo
 date: "Aug 15 2018"
 draft: false
 tags:
-- IoT
 - Mobile
-- HCI
 
 repoUrl: https://github.com/HannahYZhao/HomeAutomation
 ---
