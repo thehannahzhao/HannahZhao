@@ -9,8 +9,18 @@ tags:
 repoUrl: https://github.com/HannahYZhao/HomeAutomation
 ---
 
-- Developed an Android application for controlling smart home devices using local communication protocols.
-- Implemented device interaction using Bluetooth Low Energy (BLE) for short-range control and Wi-Fi for extended connectivity within a local network.
-- Designed control flows for device discovery, connection, and command execution across both BLE and Wi-Fi communication channels.
-- Built the mobile application in Java, focusing on reliability and usability for real-time device interaction.
-- Explored early concepts in IoT systems, including trade-offs between local protocols (BLE vs Wi-Fi) for latency, range, and connectivity.
+## Overview
+
+Home Automation was an early Android project exploring how mobile applications can control physical devices through local communication protocols. The project focused on smart home interaction, device connectivity, and simple real-time control flows.
+
+## What I Built
+
+- Developed an Android application for controlling smart home devices through local communication.
+- Implemented Bluetooth Low Energy (BLE) for short-range device interaction.
+- Explored local Wi-Fi communication for extended connectivity within the same network.
+- Designed basic control flows for device discovery, connection, and command execution.
+- Built the mobile application in Java with a focus on reliability and usability.
+
+## Key Learnings
+
+This project introduced me to early IoT system design, especially the trade-offs between BLE and Wi-Fi for latency, range, reliability, and user experience. It became one of my first experiences connecting software interfaces with real-world physical systems.
