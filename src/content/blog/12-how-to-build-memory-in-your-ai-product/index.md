@@ -54,7 +54,19 @@ Context windows, in other words, are not true memory. They are temporary working
 
 Persistent memory begins with retrieval-augmented generation, where the flow looks like this:
 
-**User Input → Embedding Model → Vector Database → Similarity Search → Retrieved Memories → Injected Back Into Prompt**
+```text
+User Input
+  ↓
+Embedding Model
+  ↓
+Vector Database
+  ↓
+Similarity Search
+  ↓
+Retrieved Memories
+  ↓
+Injected Back Into Prompt
+```
 
 You convert user interactions into embeddings, store them in a vector database such as pgvector, Pinecone, FAISS, Weaviate, or Chroma, retrieve the relevant ones by semantic similarity, and inject them back into context. This is what lets a system remember user preferences, projects, goals, recurring workflows, and personality patterns.
 
@@ -78,7 +90,13 @@ This mirrors human cognition. The brain forgets details but preserves conceptual
 
 The next evolution moves beyond chat logs toward structured semantic relationships. Instead of storing isolated conversations, systems store entities, relationships, and temporal evolution:
 
-**Hannah → founded → Index AI → researching → world models → interested in → quantum cognition**
+
+```text
+Hannah
+  → founded → Index AI
+  → researching → world models
+  → interested in → quantum cognition
+```
 
 This creates a knowledge graph layer, supported by tools like GraphRAG, Neo4j, LangGraph, LlamaIndex, and MemGPT. It matters because intelligence is relational. The meaning of information often depends more on its connections than on the information itself.
 
@@ -128,7 +146,19 @@ The companies that win will probably not be the best chat interface. They will b
 
 As someone building at the intersection of AI, computer vision, sports intelligence, and world models, I’m increasingly interested in memory systems tied to physical movement, human performance, and digital twins. The shape I keep returning to looks like this:
 
-**Video → Pose Extraction → Movement Sequences → Player Memory Graph → Performance Trajectory → Personalized Feedback**
+```text
+Video
+  ↓
+Pose Extraction
+  ↓
+Movement Sequences
+  ↓
+Player Memory Graph
+  ↓
+Performance Trajectory
+  ↓
+Personalized Feedback
+```
 
 This transforms memory from conversation history into embodied understanding. And I think this is where the future becomes genuinely interesting.
 
