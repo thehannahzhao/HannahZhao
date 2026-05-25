@@ -6,7 +6,7 @@ draft: false
 tags:
   - Philosophy
 ---
-### 🧠 Introduction
+###  Introduction
 
 I’m not going to romanticize what happened.
 
