@@ -1,13 +1,12 @@
 ---
 title: "How to Build Memory in Your AI Product: From Context Windows to World Models"
 summary: "AI memory is not magic — it’s architecture. A look at how modern memory systems work through retrieval, compression, semantic graphs, and reflection — and why the real endgame is a world model."
-date: "Nov 5 2025"
+date: "May 26 2026"
 draft: false
 tags:
   - AI
   - Startup
   - Neuroscience
-  - Philosophy
 ---
 
 ### Introduction
